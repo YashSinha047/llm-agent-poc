@@ -40,7 +40,7 @@ Agent Demo
 ## 🚀 Quick Start
 
 ### Option 1: Direct Use (Recommended)
-1. **Visit the live demo**: [https://yourusername.github.io/llm-agent-poc](https://yourusername.github.io/llm-agent-poc)
+1. **Visit the live demo**: [https://yashsinha047.github.io/llm-agent-poc/](https://yashsinha047.github.io/llm-agent-poc/)
 2. **Authenticate** with AI Pipe (redirects automatically)
 3. **Start chatting** - Try: *"Search for Python tutorials and create a learning plan"*
 
